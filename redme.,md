@@ -1,0 +1,29 @@
+Neste projeto proposto pela universidade, consegui obter uma base de dados de um restaurante.
+Com base nesses dados, propus a análise e implementação de algoritmos capazes de realizar uma
+regressão linear para prever os resultados nos meses seguintes.
+
+Para isso, decidi tratar a base de dados e explorei diferentes abordagens para alcançar esse objetivo.
+Utilizei a linguagem Python e ferramentas como o Pandas para analisar os dados, além dos módulos "sklearn.linear_model" e "LinearRegression"
+para realizar a regressão linear.
+
+Durante a análise, também identifiquei alguns problemas na base de dados,
+como o formato da identificação do cliente, que dificultou a realização de determinados tipos de análise que haviam sido propostos.
+No arquivo codigo_01 e onde estão os resultado da analise e o codigo mais explicado e oranizado. Já no codigo_secundario foi onde testei novas funçoes
+e ao terminar de tratar a base gerei o novo arquivo .csv 'pedido limpo'.
+
+-------------------------------English version--------------------------------------
+
+In this university-proposed project, I obtained a restaurant's database.
+Based on this data, I proposed the analysis and implementation of algorithms capable of performing linear regression
+to predict the results for the upcoming months.
+
+To achieve this, I decided to preprocess the database and explored different approaches to accomplish this goal.
+I used the Python language and tools such as Pandas for data analysis, along with the modules "sklearn.linear_model"
+and "LinearRegression" for performing linear regression.
+During the analysis, I also identified some issues in the database, such as the format of the customer identification,
+which hindered the execution of certain proposed analyses.
+
+The file "codigo_01" contains the results of the analysis,
+and the code is more detailed and organized.
+On the other hand, in "codigo_secundario," I tested new functions.
+Once the data preprocessing was complete, I generated a new CSV file called "clean_orders".
